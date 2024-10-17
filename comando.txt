@@ -4,3 +4,6 @@ git config user.email
 
 git add .
 git commit -m "mensagem"
+
+git branch "nome_branch"
+git checkout "nome_branch"
