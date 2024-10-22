@@ -2,8 +2,8 @@ git init
 git config user.name
 git config user.email
 
-git add .
-git commit -m "mensagem"
+git add . #Para salvaro git
+git commit -m "mensagem" #Para salvar commit
 
-git branch "nome_branch"
-git checkout "nome_branch"
+git branch "nome_branch" #Para criar branch
+git checkout "nome_branch" - #Para mudar de branch
